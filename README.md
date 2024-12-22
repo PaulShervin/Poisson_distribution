@@ -1,3 +1,4 @@
+# Exp.no:02 Date:05/10/24
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -29,10 +30,12 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+![image](https://github.com/user-attachments/assets/9fdc87c1-f7cb-4079-bc4e-4c580760b721)
 
  
 
 # Output : 
+![image](https://github.com/user-attachments/assets/00f6d5c5-8aa8-47cb-8176-8580f3a25ff6)
 
 
 
